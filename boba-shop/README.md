@@ -21,12 +21,15 @@ Input a school name and fetch results on boba places near that school.
     npm install react-places-autocomplete
     ```
 
-4. Start the development server:
+4. Input your API key into a .env file
+
+
+5. Start the development server:
     ```bash
     npm run dev
     ```
 
-5. Access the app at [http://localhost:5173](http://localhost:5173) in your browser.
+6. Access the app at [http://localhost:5173](http://localhost:5173) in your browser.
 
 ### Backend (Flask)
 
