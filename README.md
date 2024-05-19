@@ -21,7 +21,9 @@ Input a school name and fetch results on boba places near that school.
     npm install react-places-autocomplete
     ```
 
-4. Input your API key into a .env file
+4. Create an API key by visiting https://developers.google.com/maps/documentation/places/web-service/overview and clicking Get Started
+
+5. Input your API key into a .env file
 
 
 5. Start the development server:
