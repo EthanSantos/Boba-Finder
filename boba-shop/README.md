@@ -26,7 +26,7 @@ Input a school name and fetch results on boba places near that school.
     npm run dev
     ```
 
-5. Access the app at [http://localhost:3000](http://localhost:3000) in your browser.
+5. Access the app at [http://localhost:5173](http://localhost:5173) in your browser.
 
 ### Backend (Flask)
 
